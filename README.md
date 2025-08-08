@@ -4,11 +4,10 @@
 ### Specializing in: Machine Learning, Computer Vision
 #### Previously: Findhelp, Perplexity, Latch Arthedge Capital Partners
 
-- 🔭 Currently building AI-driven applications in **computer vision**, **LLMs**, and **edtech**
-- 🔭 Recent internship: Developed a **Service Catalog Management Tool** at Findhelp, reducing configuration latency by 98%  
-- 🌱 Research interests: Agentic LLM systems, super-resolution for computer vision, AI automation for finance & education  
-- 💬 Open to collaborate on impactful AI/ML projects or discuss emerging trends in applied machine learning  
-- 📫 Reach me at: rohan.gupta1130 [at] gmail.com  
+- 🔭 Recent internship: Developed a **Service Catalog Management Tool** at Findhelp
+- 🌱 Research interests: Deep learning for image super-resolution
+- 💬 Open to collaborate on impactful projects or discuss emerging trends in applied machine learning, startups, computer vision, investing, healthcare, edtech
+- 📫 Reach me at: grohan1130 [at] gmail.com  
 
 ---
 
