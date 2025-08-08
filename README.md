@@ -12,6 +12,16 @@
 
 ---
 
+## Projects
+
+- **[TennisCV](#)** — Real-time player movement, ball tracking, and win probability modeling using YOLO & custom CNNs
+- **[lip-reader-cv](#)** — Lip reading system using computer vision and deep learning to transcribe spoken words from silent video footage  
+- **[ersgan-knowledge-distillation](#)** — Compressed ESRGAN super-resolution model using knowledge distillation to reduce inference latency while retaining visual fidelity  
+- **[learn-loop](#)** — AI-native learning management system that aggregates student interactions with course material & delivers actionable insights to teachers
+- **[hablamos](#)** — Audio-based language learning chatbot that engages in short Spanish conversations using LLMs (in progress)
+  
+---
+
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -29,11 +39,4 @@
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
----
-## Projects
 
-- **[TennisCV](#)** — Real-time player movement, ball tracking, and win probability modeling using YOLO & custom CNNs
-- **[lip-reader-cv](#)** — Lip reading system using computer vision and deep learning to transcribe spoken words from silent video footage  
-- **[ersgan-knowledge-distillation](#)** — Compressed ESRGAN super-resolution model using knowledge distillation to reduce inference latency while retaining visual fidelity  
-- **[learn-loop](#)** — AI-native learning management system that aggregates student interactions with course material & delivers actionable insights to teachers
-- **[hablamos](#)** — Audio-based language learning chatbot that engages in short Spanish conversations using LLMs (in progress)
