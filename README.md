@@ -1,7 +1,7 @@
 
 # Hi there, I'm Rohan
-## MS in Computer Science @ Washington University in St. Louis | AI/ML & Data Science | Open to collaboration & new opportunities
-### Specializing in: Machine Learning, Computer Vision, Natural Language Processing, Full-Stack Development
+## BS/MS @ WashU | Open to collaboration & new opportunities
+### Specializing in: Machine Learning, Computer Vision
 #### Previously: Findhelp, Perplexity, Latch Arthedge Capital Partners
 
 - 🔭 Currently building AI-driven applications in **computer vision**, **LLMs**, and **edtech**
@@ -32,10 +32,8 @@
 ---
 ## Projects
 
-### Computer Vision:
-- **[TennisCV](#)** — Real-time player movement, ball tracking, and win probability modeling using YOLO & custom CNNs  
-- **Single Image Super Resolution (SISR)** — Knowledge-distilled deep learning model trained on DIV2K + Flickr2K to enhance image resolution; compared against bicubic & ESRGAN baselines  
-
-### Natural Language Processing & LLMs:
-- **Learn-Loop** — AI-native learning management system that aggregates student interactions with course material & delivers actionable insights to teachers
-- **AmbiguityEval** — Evaluation benchmark for disambiguation in agentic LLM systems using tool invocation tests  
+- **[TennisCV](#)** — Real-time player movement, ball tracking, and win probability modeling using YOLO & custom CNNs
+- **[lip-reader-cv](#)** — Lip reading system using computer vision and deep learning to transcribe spoken words from silent video footage  
+- **[ersgan-knowledge-distillation](#)** — Compressed ESRGAN super-resolution model using knowledge distillation to reduce inference latency while retaining visual fidelity  
+- **[learn-loop](#)** — AI-native learning management system that aggregates student interactions with course material & delivers actionable insights to teachers
+- **[hablamos](#)** — Audio-based language learning chatbot that engages in short Spanish conversations using LLMs (in progress)
