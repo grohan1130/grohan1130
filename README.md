@@ -2,7 +2,6 @@
 
 [![linkedin](https://img.shields.io/badge/-@rohangupta-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/rohan-gupta-1130/) 
 
-<h2 align="center"><a href="https://linktr.ee/rohan.gupta">Personal Website</a></h2>
 
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
