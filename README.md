@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rohan!
 
-I’m a graduate student at Washington University in St. Louis specializing in **Machine Learning, Data Science, and Computer Vision**.  
+I’m a graduate student at WashU specializing in **Machine Learning, Data Science, and Computer Vision**.  
 I love building AI-driven applications that bridge technical depth with real-world impact — from computer vision projects that analyze tennis matches 🎾 to LLM-based tools that improve education and productivity 📚⚡.
 
 - 🔭 **Currently working on:** Full-stack apps and ML projects in computer vision, NLP, and financial analytics.
