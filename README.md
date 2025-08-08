@@ -12,16 +12,6 @@
 
 ---
 
-# Projects
-
-## Computer Vision:
-- **[TennisCV](#)** — Real-time player movement, ball tracking, and win probability modeling using YOLO & custom CNNs  
-- **Single Image Super Resolution (SISR)** — Knowledge-distilled deep learning model trained on DIV2K + Flickr2K to enhance image resolution; compared against bicubic & ESRGAN baselines  
-
-## Natural Language Processing & LLMs:
-- **Learn-Loop** — AI-native learning management system that aggregates student interactions with course material & delivers actionable insights to teachers
-- **AmbiguityEval** — Evaluation benchmark for disambiguation in agentic LLM systems using tool invocation tests  
-
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -39,4 +29,13 @@
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+---
+## Projects
 
+### Computer Vision:
+- **[TennisCV](#)** — Real-time player movement, ball tracking, and win probability modeling using YOLO & custom CNNs  
+- **Single Image Super Resolution (SISR)** — Knowledge-distilled deep learning model trained on DIV2K + Flickr2K to enhance image resolution; compared against bicubic & ESRGAN baselines  
+
+### Natural Language Processing & LLMs:
+- **Learn-Loop** — AI-native learning management system that aggregates student interactions with course material & delivers actionable insights to teachers
+- **AmbiguityEval** — Evaluation benchmark for disambiguation in agentic LLM systems using tool invocation tests  
