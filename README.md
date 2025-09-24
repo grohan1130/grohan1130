@@ -5,7 +5,7 @@
 #### Previously: Findhelp, Perplexity, Latch Arthedge Capital Partners
 
 - 🔭 Recent internship: Developed a **Service Catalog Management Tool** at Findhelp
-- 🌱 Research interests: Deep learning for image super-resolution
+- 🌱 Research interests: Deep learning for image super-resolution, multimodal AI models and applications 
 - 💬 Open to collaborate on impactful projects or discuss emerging trends in applied machine learning, startups, computer vision, investing, healthcare, edtech
 - 📫 Reach me at: grohan1130 [at] gmail.com  
 
