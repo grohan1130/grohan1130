@@ -1,8 +1,8 @@
 
 # Hi there, I'm Rohan
-## BS/MS @ WashU | Open to collaboration & new opportunities
+## Founding Engineer @ Stealh Startu | BS/MS @ WashU 
 ### Specializing in: Machine Learning, Computer Vision
-#### Previously: Findhelp, Perplexity, Latch Arthedge Capital Partners
+#### Previously: Findhelp, Perplexity, Latch, Arthedge Capital Partners
 
 - 🔭 Recent internship: Developed a **Service Catalog Management Tool** at Findhelp
 - 🌱 Research interests: Deep learning for image super-resolution, multimodal AI models and applications 
