@@ -1,18 +1,16 @@
 
 # Hi there, I'm Rohan
-## Founding Engineer @ Stealh Startu | BS/MS @ WashU 
+## Founding Engineer @ Stealh Startup | BS/MS @ WashU
 ### Specializing in: Machine Learning, Computer Vision
-#### Previously: Findhelp, Perplexity, Latch, Arthedge Capital Partners
+#### Previously: AI Engineering @ Publicis Groupe, SWE @ Findhelp, Growth @ Perplexity, Quant Research @ Arthedge Capital Partners
 
-- 🔭 Recent internship: Developed a **Service Catalog Management Tool** at Findhelp
-- 🌱 Research interests: Deep learning for image super-resolution, multimodal AI models and applications 
+- 🌱 Research interests: Deep learning for image/video super-resolution, multimodal AI models and applications 
 - 💬 Open to collaborate on impactful projects or discuss emerging trends in applied machine learning, startups, computer vision, investing, healthcare, edtech
 - 📫 Reach me at: grohan1130 [at] gmail.com  
 
 ---
 
 ## Projects
-
 - **[TennisCV](#)** — Real-time player movement, ball tracking, and win probability modeling using YOLO & custom CNNs
 - **[lip-reader-cv](#)** — Lip reading system using computer vision and deep learning to transcribe spoken words from silent video footage  
 - **[ersgan-knowledge-distillation](#)** — Compressed ESRGAN super-resolution model using knowledge distillation to reduce inference latency while retaining visual fidelity  
