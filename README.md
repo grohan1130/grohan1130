@@ -1,6 +1,6 @@
 
 # Hi there, I'm Rohan
-## Founding Engineer @ Stealth Startup | CS/Econ @ WashU
+## Founding Engineer @ Stealth Startup (Healthcare) | CS/Econ @ WashU
 ### Specializing in: Machine Learning, Computer Vision
 #### Previously: AI Engineering @ Publicis Groupe, SWE @ Findhelp, Growth @ Perplexity, Quant Research @ Arthedge Capital Partners
 
