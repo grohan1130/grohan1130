@@ -1,7 +1,6 @@
 
 # Hi there, I'm Rohan
-## Founding Engineer @ Avico Health (Healthcare) | CS/Econ @ WashU
-### Specializing in: Machine Learning, Computer Vision
+## Founding Engineer @ Avico Health | CS/Econ @ WashU
 #### Previously: AI Engineering @ Publicis Groupe, SWE @ Findhelp, Growth @ Perplexity, Quant Research @ Arthedge Capital Partners
 
 - 🌱 Research interests: Deep learning for image/video super-resolution, multimodal AI models and applications 
